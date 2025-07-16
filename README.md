@@ -1,4 +1,5 @@
-# gossip-girls <!DOCTYPE html>
+# gossip-girls 
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
